@@ -1,4 +1,4 @@
-# Loughborough University Centre for Autonomous Systemes
+# Loughborough University Centre for Autonomous Systems
 
 ![LUCAS Logo](https://github.com/LU-Centre-for-Autonomous-Systems/.github/blob/master/profile/LUCAS_Logo.png?raw=true)
 
